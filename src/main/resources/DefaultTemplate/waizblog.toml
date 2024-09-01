@@ -1,0 +1,5 @@
+[Blog]
+name = "@_BLOGNAME_"
+
+[author]
+name = "@_AUTHORNAME_"
